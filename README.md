@@ -11,8 +11,13 @@
 
 개발 기간 : 대략 2달
 
+담당 : backend
+
 
 개발 도구 : spring-boot, react, bootStrap, mysql
 
 
 프로젝트 리뷰 : https://projectreview.tistory.com/1
+
+
+
