@@ -1,0 +1,29 @@
+.university {
+  width: auto;
+  list-style-position: inside;
+  list-style-image: url(auth_img/school_1.png);
+  list-style-type: disc;
+
+}
+.class {
+  width: auto;
+  list-style-position: inside;
+  list-style-image: url(auth_img/class.png);
+  list-style-type: disc;
+}
+.book {
+  width: auto;
+  list-style-position: inside;
+  list-style-image: url(auth_img/book1.png);
+  list-style-type: disc;
+}
+.info {
+  width: auto;
+  list-style-position: inside;
+  list-style-image: url(auth_img/info.png);
+  list-style-type: disc;
+}
+
+a {
+  text-decoration-line: none;
+}

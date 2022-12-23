@@ -1,0 +1,28 @@
+.progs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(240px, 240px));
+  grid-gap: 80px;
+  padding-top: 50px;
+}
+
+.progs_container {
+  display: flex;
+  justify-content: center;
+}
+
+.user_info {
+  display: flex;
+  justify-content: end;
+  padding-right: 0;
+}
+
+.progs_classify {
+  display: flex;
+}
+
+@media screen and (max-width: 1090px) {
+  .progs {
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+}
